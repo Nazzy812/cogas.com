@@ -329,6 +329,13 @@ html,Body{
 }
 
 
+@media screen and (max-width: 480px),(max-width: 700px){
+	.order h1{
+		font-size: 2.5em;
+	}
+}
+
+
 @media screen and (max-width: 700px),(max-width: 768px){
 	.banner-case{
 		padding: 0px;
@@ -389,7 +396,6 @@ html,Body{
 .order h1{
 	text-align: center;
 	text-transform: uppercase;
-	font-size: 3em;
 }
 
 .section{
