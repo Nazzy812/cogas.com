@@ -407,8 +407,8 @@ a:hover{
 		padding: 5px 10px;
 		text-align: center;
 		opacity: 1;
-		width: 91%;
-		height: 180px;
+		width: auto;
+		height: auto;
 	}
 
 	.more{
