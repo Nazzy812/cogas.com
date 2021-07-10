@@ -172,6 +172,13 @@ body{
 .dropdown:hover .dropdown-content {
 	  display: block;
 	}
+
+
+	.site-nav li{
+		width: 50%;
+		margin: 0;
+		float: none;
+	}
 }
 
 
