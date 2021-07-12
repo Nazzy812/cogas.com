@@ -340,6 +340,12 @@ a:hover{
 }
 
 
+strong{
+	font-size: 0.8em;
+	color: red;
+}
+
+
 @media screen and (max-width: 769px),(max-width: 1024px){
 	.cook{
 		width: 100%;
@@ -396,6 +402,7 @@ a:hover{
 	}
 
 	.burner{
+		position: initial;
 		width: 40%;
 		height: auto;
 		margin: 10px;
@@ -409,11 +416,11 @@ a:hover{
 		bottom: 0;
 		left: 0;
 		color: #000;
-		background-color: #fff; /*rgba(0, 0, 0, .65);*/
+		background-color: #fff;
 		padding: 5px 10px;
 		text-align: center;
 		opacity: 1;
-		width: auto;
+		width: 90%;
 		height: auto;
 	}
 
@@ -438,6 +445,7 @@ a:hover{
 	}*/
 
 	.burner{
+		position: initial;
 		width: 40%;
 		height: auto;
 		margin: ;
@@ -449,13 +457,13 @@ a:hover{
 		position: initial;
 		bottom: 0;
 		left: 0;
-		color: #fff;
-		background-color: rgba(0, 0, 0, .65);
+		color: #000;
+		background-color: #fff;
 		padding: 5px 10px;
 		text-align: center;
 		opacity: 1;
-		width: 95%;
-		height: 100px;
+		width: 90%;
+		height: auto;
 	}
 
 	.more{
