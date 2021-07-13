@@ -395,7 +395,7 @@ a:hover{
 
 	.burner img { 
 		max-width: 100%;
-		height: auto;
+		height: 90px;
 		padding:0;
 		margin: 0;
 		display: block;
